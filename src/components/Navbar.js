@@ -19,8 +19,8 @@ const links = [
    
     {
         name: 'Socials',
-        to: '/portfolio',
-        active: 'portfolio'
+        to: '/socials',
+        active: 'socials'
     }
 ]
 
