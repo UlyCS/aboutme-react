@@ -133,19 +133,19 @@ export const info = {
         },
         {
             title: "Google",
-            live: "https://paytonpierce.dev",
+            live: "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBnpqWvgCPcJNgdsRtFXHkRGMHVMsFcHwkVGlkfknLVBLTkWVSXqHZmhsMrlHkpvsqfjSnF",
             source: "https://github.com/paytonjewell",
             image: google
         },
         {
             title: "Instagram",
-            live: "https://paytonpierce.dev",
+            live: "https://www.instagram.com/ulychinpo/",
             source: "https://github.com/paytonjewell",
             image: ig
         },
         {
             title: "LinkedIn",
-            live: "https://paytonpierce.dev",
+            live: "https://www.linkedin.com/in/john-ulysses-paruginog-3944411b7",
             source: "https://github.com/paytonjewell",
             image: linkedin
         }
