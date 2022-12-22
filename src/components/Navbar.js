@@ -16,12 +16,7 @@ const links = [
         to: '/about',
         active: 'about'
     },
-    {
-        name: info.initials,
-        type: 'initials',
-        to: '/',
-        active: 'home'
-    },
+   
     {
         name: 'Socials',
         to: '/portfolio',
@@ -29,7 +24,7 @@ const links = [
     }
 ]
 
-export default function Navbar({darkMode, handleClick}) {
+export default function Navbar({}) {
     const location = useLocation()
     const [active, setActive] = useState(location.pathname === '/' ? 'home' : location.pathname.slice(1, location.pathname.length));
 
@@ -47,9 +42,6 @@ export default function Navbar({darkMode, handleClick}) {
                         </Link>
                     </Box>
                 ))}
-                <li>
-                    <Toggler darkMode={darkMode} handleClick={handleClick}/>
-                </li>
             </Box>
         </Box>
     )
