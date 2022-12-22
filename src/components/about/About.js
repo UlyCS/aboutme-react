@@ -25,7 +25,7 @@ export default function About() {
             </p>
             <p><span style={{color: info.baseColor}}>skills/tools <span
                 className={Style.green}>(main)</span> $</span> ls</p>
-            <p style={{color: info.baseColor}}> Programming:</p>
+            <p style={{color: info.baseColor}}> Skills:</p>
             <ul className={Style.skills}>
                 {info.skills.programming.map((proficiency, index) => <li key={index}>{proficiency}</li>)}
             </ul>
@@ -56,6 +56,8 @@ export default function About() {
                 ))}
             </ul>
         </>;
+        
+        //Todo: add artwork gallery
     }
 
     return (
