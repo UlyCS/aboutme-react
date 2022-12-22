@@ -31,7 +31,7 @@ export const info = {
         },
         {
             emoji: "💻",
-            text: "I aspire to be a Developer."
+            text: "I aspire to be a  Developer."
         }
         // {
         //     emoji: "📧",
@@ -98,7 +98,7 @@ export const info = {
         }
 
     ],
-    portfolio: [ 
+    socials: [ 
         {
             title: "Facebook",
             live: "https://www.facebook.com/UlyChin/",  
