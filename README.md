@@ -1,5 +1,5 @@
 An About Me Webpage using React
-![preview](https://lh3.googleusercontent.com/-VrYrDi4OLD61-VMiFd5JvzerVfVCaIxSzUrB8jPC_rfBXsM8GR12pbJkR6lstksY67RJ3PSkMTYp7yi-vjnEM6mW882z38Yljzwitk4Rl-KC5DQ1YUnaHG0neRLonB4_67KEdu3PIk=w2400)
+![preview](https://lh3.googleusercontent.com/5pSSepAwYpv2QcimvEJ_rtPSGVRq2FmFuQvx1E9xtiMj-lVl7IlTpGKrHBgGo380TaNqXTzYSWtq4NRL3d_fBc_LQw6OeB3iOJhv1HMNbuIu9LgW4zohOgIT6x4K5SbogMg5tD9n07E=w2400)
 
 ## How to use
 - Fork the repository and clone locally
