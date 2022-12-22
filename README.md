@@ -1,1 +1,2 @@
 An About Me Webpage using React
+![image](https://lh3.googleusercontent.com/-VrYrDi4OLD61-VMiFd5JvzerVfVCaIxSzUrB8jPC_rfBXsM8GR12pbJkR6lstksY67RJ3PSkMTYp7yi-vjnEM6mW882z38Yljzwitk4Rl-KC5DQ1YUnaHG0neRLonB4_67KEdu3PIk=w2400)
